@@ -1,0 +1,44 @@
+/* hyperlinks */
+a:link {color: black;}
+a:visited {color: black;}
+a:hover {color: Crimson;}
+a:active {color: Crimson;} 
+a {text-decoration: none;}
+
+/* for title */
+.left {
+    position: relative;
+    left: 26px;
+    font-weight:normal;
+    font-size: 40px;
+}
+
+/* list block */
+ul {
+    list-style-type: circle;
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 100;
+    border: 0px solid black;
+}
+
+/* list items */
+li {
+    font-family: FangSong;
+    font-size: 18px;
+}
+
+/* descriptions */
+p {
+    font-family: FangSong;
+    font-size: 15px;
+    color: DimGray;
+}
+
+/* copy right info */
+.tail {
+    font-size: 11px;
+    color: DimGray;
+    margin-left: 26px;
+}
+

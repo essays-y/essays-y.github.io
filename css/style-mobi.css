@@ -1,0 +1,21 @@
+body.mobile {
+    font-size: 30px;
+}
+body.mobile p.intro {
+    font-size: 26px;
+}
+body.mobile div.main {
+    margin: 0;
+    padding: 2% 4% 4% 4%;
+}
+body.mobile h2 {
+    margin-left:  13px;
+	margin-right: 13px;
+}
+body.mobile .tail {
+    margin-left:  13px;
+	margin-right: 13px;
+}
+body.mobile ul {
+    margin-left: 0px;
+}

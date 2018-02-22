@@ -3,18 +3,19 @@ body.mobile {
 }
 body.mobile p.intro {
     font-size: 26px;
+    line-height: 1.5;
 }
 body.mobile div.main {
     margin: 0;
     padding: 2% 4% 4% 4%;
 }
 body.mobile h2 {
-    margin-left:  13px;
-	margin-right: 13px;
+    margin-left:  10px;
+    margin-right: 10px;
 }
 body.mobile .tail {
-    margin-left:  13px;
-	margin-right: 13px;
+    margin-left:  10px;
+    margin-right: 10px;
 }
 body.mobile ul {
     margin-left: 0px;

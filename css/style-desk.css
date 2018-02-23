@@ -1,33 +1,51 @@
+/* -- frameworks -- */
 * {
     box-sizing: border-box;
 }
-body {
-    font-family:"lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
-    font-size: 18px;
-}
-div.main {
+div.main-frame {
     margin: 1% 25%;
     /* padding: 2% 10% 4% 10%;  */
     border: 1px solid LightGrey;
+}
+div.ruler {
+	margin-left:  50px;
+	margin-right: 50px;
+	/* margin-top:    0px; */
+	/* margin-bottom: 0px; */
+    /* border: 1px solid LightGrey; */
+}
+ul {
+    list-style-type: circle;
+    padding-left: 28px;
+}
+
+/* -- text related -- */
+body {
+    font-family:"lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    font-size: 18px;
 }
 h2 {
     /* font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, SimHei, STKaiti, SimSun, serif; */
     font-weight: normal;
 	font-size: 40px;
-	margin-left:  50px;
-	margin-right: 50px;
     padding: 10px;
     border-bottom: 1px LightGrey solid;
     line-height: 100%;
 	color: DimGray;
 }
-ul {
-    list-style-type: circle;
-    margin-left: 37px;
+h3 {
+    font-weight: normal;
+	font-size: 30px;
+    padding: 10px;
+    border-bottom: 1px LightGrey solid;
+    line-height: 100%;
+	color: DimGray;
+}
+p {
+	line-height: 1.8;
 }
 p.intro {
     font-size: 16px;
-	line-height: 1.8;
 	margin-top: 3px;
     color: DimGray;
 }
@@ -36,15 +54,15 @@ p.intro {
     color: DimGray;
 	line-height: 1.5;
 	padding: 10px;
-    margin-left:  50px;
-    margin-right: 50px;
     border-top: 1px LightGrey solid;
 }
+
+/* -- other things -- */
+a {text-decoration: none;}
 a:link {color: black;}
 a:visited {color: black;}
 a:hover {color: Crimson;}
-a:active {color: Crimson;} 
-a {text-decoration: none;}
-hr {
-    color: LightGrey;
-}
+a:active {color: Crimson;}
+
+hr { color: LightGrey; }
+

@@ -49,6 +49,10 @@ p.intro {
 	margin-top: 3px;
     color: DimGray;
 }
+p.verse {
+    font-size: 16px;
+    color: Tomato;
+}
 .tail {
     font-size: 12px;
     color: DimGray;
@@ -65,4 +69,14 @@ a:hover {color: Crimson;}
 a:active {color: Crimson;}
 
 hr { color: LightGrey; }
+
+img {
+    display: block;
+    /* box-shadow: 0 0 10px #555; */
+    border-radius: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 

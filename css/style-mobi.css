@@ -8,7 +8,7 @@ body.mobile div.ruler {
 	margin-right: 10px;
 }
 body.mobile ul {
-    /* padding-left: 28px; */
+    /* padding-left: 0px; */
 }
 
 /* -- text related -- */
@@ -24,5 +24,26 @@ body.mobile p {
 body.mobile p.intro {
     font-size: 24px;
     line-height: 1.5;
+}
+body.mobile p.verse {
+    font-size: 24px;
+    line-height: 1.5;
+}
+body.mobile .lit {
+    font-size: 14px;
+}
+
+/* -- hebrew related -- */
+body.mobile .heb-modern {
+    font-size: 34px;
+}
+body.mobile .heb-paleo {
+    font-size: 34px;
+}
+body.mobile .heb-15-demo {
+    font-size: 40px;
+}
+body.mobile .heb-15 {
+    font-size: 32px;
 }
 

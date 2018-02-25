@@ -22,17 +22,21 @@
 
 .heb-modern {
     font-family: "David Libre", "Frank Ruhl Libre";
+    font-size: 22px;
 }
-
 .heb-paleo {
     font-family: 'paleo_hebrewregular';
+    font-size: 22px;
 }
-
-.heb-13 {
-    font-family: 'protosinaiticregular';
+.heb-15-demo {
+    font-family: 'protosinaitic_1regular';
+    font-size: 38px;
 }
-
 .heb-15 {
     font-family: 'protosinaitic_1regular';
+    font-size: 20px;
+}
+.heb-13 {
+    font-family: 'protosinaiticregular';
 }
 

@@ -3,8 +3,7 @@
 For now it is mainly a collection of my articles on ancient hebrew.
 
 todo:
-- tracker, analytics
-- css, font, style
+- write more, write slow and good
 - logo?
 - some js?
 - add more sections like /tech /general?

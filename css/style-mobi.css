@@ -2,6 +2,7 @@
 body.mobile div.main-frame {
     margin: 0;
     padding: 2% 4% 4% 4%;
+    box-shadow: none;
 }
 body.mobile div.ruler {
 	margin-left:  10px;

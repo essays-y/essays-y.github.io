@@ -6,6 +6,7 @@ div.main-frame {
     margin: 1% 25%;
     /* padding: 2% 10% 4% 10%;  */
     border: 1px solid LightGrey;
+    box-shadow: 0 0 10px #555;
 }
 div.ruler {
 	margin-left:  50px;
